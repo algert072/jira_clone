@@ -8,6 +8,7 @@
   <a href="https://github.com/oldboyxx/jira_clone/tree/master/api">View API</a>
 </h3>
 
+
 ![Tech logos](https://i.ibb.co/DVFj8PL/tech-icons.jpg)
 
 ![App screenshot](https://i.ibb.co/W3qVvCn/jira-optimized.jpg)
@@ -73,9 +74,3 @@ I will not be accepting PR's on this repository. Feel free to fork and maintain 
 [MIT](https://opensource.org/licenses/MIT)
 
 <hr>
-
-<h3>
-  <a href="https://jira.ivorreic.com/">Visit the live app</a> |
-  <a href="https://github.com/oldboyxx/jira_clone/tree/master/client">View client</a> |
-  <a href="https://github.com/oldboyxx/jira_clone/tree/master/api">View API</a>
-</h3>
